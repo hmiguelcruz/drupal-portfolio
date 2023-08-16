@@ -89,3 +89,5 @@ tmp/
 *.DS_Store
 .AppleDouble
 .LSOverride
+/.editorconfig
+/.gitattributes
